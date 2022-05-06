@@ -9,7 +9,6 @@ public class Bishop extends ChessPiece{
 
 	public Bishop(Board board, Color color) {
 		super(board, color);
-		
 	}
 	
 	@Override
